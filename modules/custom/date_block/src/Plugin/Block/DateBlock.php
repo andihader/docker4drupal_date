@@ -7,8 +7,8 @@ use Drupal\Core\Block\BlockBase;
  * Provides a Date Block,
  * @Block(
  * id = "date_block",
- * admin_label = @Translation("Datumsausgabe"),
- * category = @Translation("Datumsausgabe_xx"),
+ * admin_label = @Translation("Date Block"),
+ * category = @Translation("Date Block"),
  *)
  */
 
